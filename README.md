@@ -10,7 +10,7 @@ The goal? Follow the color sequence and repeat it without making a mistake. Each
 ---
 
 ## 🚀 Live Demo  
-👉 [Play the Game Here](https://neel-ghori15.github.io/Littel-Projects/simon-says_game/)  
+👉 [Play the Game Here](https://neel-ghori15.github.io/Littel-Projects/)  
 
 ---
 
